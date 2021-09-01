@@ -3,6 +3,7 @@
 👀 I’m interested in ...
   - Full-stack development
   - Web design
+  - Mobile app development
   - Game Development
 
 🌱 I’m currently learning ...
