@@ -10,6 +10,7 @@
   - React
   - Unity
   - iOS Development
+  - Android Development
 
 📫 How to reach me ...
   * Visit my [site](http://kaischuyler.com/)
