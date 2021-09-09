@@ -7,10 +7,7 @@
   - Game Development
 
 🌱 I’m currently learning ...
-  - React
-  - Unity
-  - iOS Development
-  - Android Development
-
-📫 How to reach me ...
-  * Visit my [site](http://kaischuyler.com/)
+  - iOS development
+  - Android development
+  - Full-stack development
+  - Data science
