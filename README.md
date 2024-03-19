@@ -1,18 +1,16 @@
 ### Hi there, I'm Kai. 👋🏼
 
-🧑🏽‍💻 Software Engineer | Full-Stack Developer | Designer | Consultant
+🧑🏽‍💻 Software Engineer | Full-Stack Developer | Designer
 
 #### About Me
 
 - 🚀 Passionate about building immersive web experiences through full-stack development.
-- 💡 Interested in the future of LLMs, always following new updates in the field.
 - 🎨 Enthusiastic about crafting elegant and user-centric web designs.
 
 #### What I Do
 
-- 🌐 Transforming ideas into code and elegant designs into functional websites.
+- 🌐 Transforming ideas into code and elegant designs into functional applications.
 - ⚙️ Constantly honing my skills in web technologies and backend development.
-- 🔍 Exploring the intricate world of LLMs and their applications.
 
 #### Let's Connect
 
