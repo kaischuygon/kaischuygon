@@ -5,6 +5,6 @@
 #### About Me
 Full-stack dev from 🇨🇷 San Jose, CR. I studied CS in 🦬⛰️ Boulder, CO and develop pixel-perfect content for the web. 
 
-Check out my [site](https://kaischuyler.com) and [my game](https://www.kino.wtf/). 
+Check out my [site](https://kaischuyler.com) and play [kino](https://www.kino.wtf/) daily. 
 
 Feel free to contact me if you like my work!
