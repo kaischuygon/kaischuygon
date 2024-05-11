@@ -1,17 +1,10 @@
-### Hi there, I'm Kai. 👋🏼
+### 👋🏼 Hi there, I'm Kai.
 
-🧑🏽‍💻 Software Engineer | Full-Stack Developer | Designer
+🧑🏽‍💻 Software Engineer | 🚀 Full-Stack Developer | ✏️ Designer
 
 #### About Me
+Full-stack dev from 🇨🇷 San Jose, CR. I studied CS in 🦬⛰️ Boulder, CO and develop pixel-perfect content for the web. 
 
-- 🚀 Passionate about building immersive web experiences through full-stack development.
-- 🎨 Enthusiastic about crafting elegant and user-centric web designs.
+Check out my [site](https://kaischuyler.com) and [my game](https://www.kino.wtf/). 
 
-#### What I Do
-
-- 🌐 Transforming ideas into code and elegant designs into functional applications.
-- ⚙️ Constantly honing my skills in web technologies and backend development.
-
-#### Let's Connect
-
-📫 You can reach out to me for collaboration, discussions, or just to say hi!
+Feel free to contact me if you like my work!
