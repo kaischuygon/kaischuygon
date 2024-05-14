@@ -1,6 +1,6 @@
 ### 👋🏼 Hi there, I'm Kai.
 
-🧑🏽‍💻 Software Engineer, 🚀 Full-Stack Developer, ✏️ Designer
+🧑🏽‍💻 Software Engineer 🔹 🚀 Full-Stack Developer 🔹 ✏️ Designer
 
 #### About Me
 Full-stack dev from 🇨🇷 San Jose, CR. I studied CS in 🦬⛰️ Boulder, CO and develop content for the web. 
